@@ -1,3 +1,3 @@
 # DisneyContentDataAnalysis
 
-Disney's Hotsar content based analysis and visualization.
+Disney+ content based analysis and visualization.
